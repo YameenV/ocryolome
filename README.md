@@ -1,2 +1,2 @@
 # OcrYoloMe
-[![Loading Video ....](./yoloOcr.gif)]
+![Loading Video ....](./yoloOcr.gif)
