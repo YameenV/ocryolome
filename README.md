@@ -1,2 +1,2 @@
 # OcrYoloMe
-![Loading Video ....](./yoloOcr.gif)
+![Loading Video ....](https://github.com/YameenV/ocryolome/blob/master/yoloOcr.gif)
